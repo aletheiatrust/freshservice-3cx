@@ -521,16 +521,35 @@ Save.
 
 ---
 
-## Part E — Pending Confirmation ⚠️
+## Part E — Additional Portal Steps (Confirmed)
 
-The following items require a decision before actioning:
+### E1 — Move "Employee Onboarding - MS Active Directory" to User Accounts
 
-| # | Item | Question | Options |
-|---|---|---|---|
-| E1 | Google Drive Migration | Is the Google Drive migration project finished? | Archive (hide from staff) / Leave active |
-| E2 | Staff EV Charging Account Setup | Move out of Security & Access — where should it go? | HR Management / New "Facilities" category / Leave where it is |
-| E3 | Employee Onboarding - MS Active Directory | This is in HR Management but is an IT action. Move to User Accounts? | Move to User Accounts / Leave in HR Management |
-| E4 | Microsoft Teams Classes | Should the new "Google Classroom Request" item also cover Microsoft Teams classes, or create a separate item? | One combined item / Separate Teams Classes item |
+The API does not support moving items between categories — this must be done in the portal.
+
+**Navigate to:** Admin → Service Catalog → HR Management → Employee Onboarding - MS Active Directory
+
+Find the category assignment field and change it from **HR Management** to **User Accounts**.
+
+Save.
+
+---
+
+### E2 — Google Drive Migration
+
+Migration project still in progress — leave this item active in Security & Access. No action needed.
+
+---
+
+### E3 — Staff EV Charging Account Setup
+
+Leave in Security & Access. No action needed.
+
+---
+
+### E4 — Microsoft Teams Classes
+
+The consolidated **Google Classroom Request** form is sufficient. No separate Teams Classes item needed at this stage — if demand emerges it can be added to the Classroom Setup category later.
 
 ---
 
