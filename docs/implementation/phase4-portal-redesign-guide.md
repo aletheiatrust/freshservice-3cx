@@ -497,7 +497,7 @@ Add the following HTML blocks as custom sections. The portal editor may have a "
       <a class="dept-card" href="/support/catalog">
         <span class="dept-icon">💰</span>
         <div class="dept-name">Finance</div>
-        <div class="dept-desc">Budgets, claims &amp; payroll queries</div>
+        <div class="dept-desc">Budgets, orders, claims &amp; payroll queries</div>
         <span class="dept-link">Browse services →</span>
       </a>
 
