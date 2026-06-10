@@ -136,8 +136,8 @@ This snippet is added to:
 
 When a chat session ends (or at agent discretion), a Freshservice ticket should be created automatically from the conversation. Two methods:
 
-**Method A: 3CX CRM Integration (Native)**
-3CX has a built-in CRM connector that supports Freshservice. This allows:
+**Method A: 3CX CRM Integration (Native) — CONFIRMED COMPATIBLE**
+3CX v20 Update 8 (self-hosted, confirmed) has a built-in CRM connector that supports Freshservice. This allows:
 - Agents to see requester's existing tickets during chat (caller lookup)
 - Creating a new Freshservice ticket from within the 3CX interface
 - Logging the chat transcript to the ticket

@@ -81,8 +81,8 @@ PARENT: Staff Leaver — [Name] — [School] — Last day: [Date]
 │   □ Confirm all actions completed and record date/time
 │   
 │   ⚠ GOVERNOR FLAG: If "Is this person a Governor?" = Yes
-│      → Additional task: Manually check and disable Governor Portal access
-│      → Additional task: Remove from governor communications lists
+│      → Raise a separate IT support ticket for GovernorHub account removal
+│      → Do NOT delay or block the main leaver ticket — process in parallel
 │   
 │   Escalation: If ticket not resolved by 17:00 on last working day
 │               → Auto-escalate to IT Manager (Luke Dobson)
