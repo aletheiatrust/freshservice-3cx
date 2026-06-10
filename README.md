@@ -32,6 +32,7 @@ All reports, build guides, and design documents are published there. Use the sid
 
 | Document | Link |
 |---|---|
+| **Project Handoff** | [**handoff**](https://aletheiatrust.github.io/freshservice-3cx/handoff) |
 | Initial Assessment | [reports/01-initial-assessment](https://aletheiatrust.github.io/freshservice-3cx/reports/01-initial-assessment) |
 | Departments & Workflows | [reports/02-departments-and-workflows](https://aletheiatrust.github.io/freshservice-3cx/reports/02-departments-and-workflows) |
 | Phase 1 — Leaver Build Guide | [implementation/phase1-leaver-build-guide](https://aletheiatrust.github.io/freshservice-3cx/implementation/phase1-leaver-build-guide) |
