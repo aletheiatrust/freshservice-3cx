@@ -1,0 +1,12 @@
+# Credentials - never commit
+.env
+*.env
+secrets.json
+api-key.txt
+
+# Output data (can be large)
+docs/api/raw/
+
+# OS
+.DS_Store
+Thumbs.db
