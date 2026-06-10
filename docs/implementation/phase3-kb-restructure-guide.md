@@ -172,9 +172,7 @@ All of the following require the Freshservice admin portal (category/folder move
 
 ## Part F — Pupil Progress
 
-Already set to agents-only visibility (done in Phase 0). No further action needed unless the system is being decommissioned, in which case archive the category entirely.
-
-**Question for later:** Is Pupil Progress (the assessment system) still in use at any school?
+System confirmed decommissioned. Category deleted via API on 10 June 2026. ✅ Complete
 
 ---
 
