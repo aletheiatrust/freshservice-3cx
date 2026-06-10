@@ -1,0 +1,18 @@
+title: Freshservice & 3CX — Aletheia Academies Trust
+description: Support platform improvement project
+remote_theme: just-the-docs/just-the-docs
+color_scheme: light
+
+logo: "/assets/images/aletheia-logo.png"
+
+aux_links:
+  "GitHub Repo":
+    - "https://github.com/aletheiatrust/freshservice-3cx"
+
+search_enabled: true
+heading_anchors: true
+permalink: pretty
+
+nav_sort: case_insensitive
+
+footer_content: "Aletheia Academies Trust &copy; 2026"
