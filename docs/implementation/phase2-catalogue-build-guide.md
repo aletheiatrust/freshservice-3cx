@@ -523,15 +523,9 @@ Save.
 
 ## Part E — Additional Portal Steps (Confirmed)
 
-### E1 — Move "Employee Onboarding - MS Active Directory" to User Accounts
+### E1 — Employee Onboarding - MS Active Directory
 
-The API does not support moving items between categories — this must be done in the portal.
-
-**Navigate to:** Admin → Service Catalog → HR Management → Employee Onboarding - MS Active Directory
-
-Find the category assignment field and change it from **HR Management** to **User Accounts**.
-
-Save.
+Leave in HR Management. Existing workflow automations are built against this item's current category — moving it would break them. No action needed.
 
 ---
 
