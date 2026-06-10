@@ -182,6 +182,23 @@ Currently contains 3CX handset guides and web/mobile client guides. This categor
 
 ---
 
+## Part H — Content Audit (Deferred)
+
+Article-level content audit is blocked by API key scope — articles endpoint returns 403. Two options to unblock:
+1. Check API key scopes in Freshservice admin — enable Knowledge Base / Solutions scope if available
+2. Manual audit — paste article content into chat for review and rewrite
+
+**Priority order when this is picked up:**
+1. Microsoft 365 (Outlook, Teams, OneDrive, SharePoint) — highest traffic
+2. eSafety, Policies & Security — compliance-critical
+3. Arbor — heavily used by school admin
+4. Software — likely has outdated entries (VLC, Windows Media Player, Zoom)
+5. Google — Chromebooks, Classroom
+
+**Criteria:** Archive (outdated system) / Reduce (too long) / Rewrite (unclear or wrong product names) / Keep (accurate and clear)
+
+---
+
 ## Summary
 
 | Part | Actions | Status |
